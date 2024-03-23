@@ -5,6 +5,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ot-nchks&label=Profile%20views&color=0e75b6&style=flat" alt="ot-nchks" /> </p>
 
+### |*Playground*| 
+------------------------
+
+| <a href="https://main--otnchks-form.netlify.app/">Amazon-AWS-Form </a> | <a href="https://OT-Nchks.github.io/Gallery/">Gallery</a>  |
+|-- | -- |
+| <img  align="left"  width="380px" src="https://github.com/OT-Nchks/form-validation-1/blob/main/preview.png"/> | <img  align="left"  width="380px" src="https://OT-Nchks.github.io/Gallery/preview.PNG">   |
 
 
 <h3 align="left">Connect with me:</h3>
@@ -19,3 +25,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ot-nchks&show_icons=true&locale=en" alt="ot-nchks" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ot-nchks&" alt="ot-nchks" /></p>
+
+------------------------
+### |*My Contributions*|
+------------------------
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OT-Nchks/OT-Nchks/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OT-Nchks/OT-Nchks/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/OT-Nchks/OT-Nchks/output/github-contribution-grid-snake.svg">
+</picture>
